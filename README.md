@@ -24,10 +24,10 @@ Hi, I'm Brian De Vita!
 <pre>
 
 
-💻 Soy un programador  autodidacta con experiencia en desarrollo de aplicaciones y scripting para servidores de videojuegos.  
-📚 He aprendido de forma independiente a través de diversas plataformas, cursos en línea y documentación.  
-🛠️ He trabajado con frameworks y tecnologías como Django, React, Express, ESX y QBCore, y actualmente desarrollo proyectos en servidores de FiveM utilizando Lua y ESX.  
-🌟 Mis principales lenguajes de programación son Python, JavaScript, HTML, CSS y Lua.  
+💻 Soy un programador autodidacta con experiencia en desarrollo de aplicaciones móviles con **Flutter y Dart**, además de scripting para servidores de videojuegos.  
+📚 He aprendido de forma independiente a través de diversas plataformas, cursos en línea y documentación, fortaleciendo mis habilidades constantemente.  
+🛠️ He trabajado con frameworks y tecnologías como **Django, React, Express, ESX, QBCore, Flutter** y **Dart**, y actualmente desarrollo proyectos en servidores de FiveM utilizando Lua y ESX.  
+🌟 Mis principales lenguajes de programación son **Python, JavaScript, HTML, CSS, Lua, Flutter** y **Dart**.  
 🌱 Estoy en constante aprendizaje para mejorar mis habilidades y consolidarme en el campo del desarrollo.  
 🚩 Mi objetivo es seguir aprendiendo y dedicarme profesionalmente a la programación.  
 🤔 Actualmente, estoy abierto a oportunidades para seguir creciendo en el mundo del desarrollo y colaborar en proyectos desafiantes. 
