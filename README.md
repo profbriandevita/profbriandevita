@@ -28,7 +28,7 @@
 💻 **Soy un programador autodidacta** con experiencia en desarrollo de aplicaciones móviles utilizando **Flutter** y **Dart**, además de scripting para servidores de videojuegos.  
 📚 He aprendido de manera independiente a través de diversas plataformas, cursos en línea y documentación, lo que me permite mejorar constantemente mis habilidades.  
 🛠️ He trabajado con **Django**, **React**, **Express**, **ESX**, **QBCore**, **Flutter** y **Dart**, y actualmente desarrollo proyectos en servidores de FiveM utilizando **Lua** y **ESX**.  
-🌟 Mis principales lenguajes de programación son **Python**, **JavaScript**, **HTML**, **CSS**, **Lua**, **Flutter** y **Dart**.  
+🌟 Mis principales lenguajes de programación son **Python**,**Java** **JavaScript**, **HTML**.  
 🌱 Siempre estoy aprendiendo para mejorar y consolidarme en el campo del desarrollo.  
 🚀 **Objetivo:** Seguir aprendiendo y colaborar en proyectos desafiantes para crecer profesionalmente.
 
