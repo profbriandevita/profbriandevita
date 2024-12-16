@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://github.com/profbriandevita">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0EAAE8&center=true&vCenter=true&width=435&lines=Mobile+App+Developer;Backend+Developer;Always+Learning+New+Things" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0EAAE8&center=true&vCenter=true&width=435&lines=Develeper+Developer;Backend+Developer;Always+Learning+New+Things" alt="Typing SVG">
   </a>
 </p>
 
